@@ -1,0 +1,15 @@
+[
+  {
+    "id": "p1",
+    "example": true,
+    "name": "Mahsulot nomi (namuna)",
+    "image": "",
+    "form": "Kapsula, 60 dona",
+    "composition": "Mahsulot tarkibi ishlab chiqaruvchi hujjatlari asosida to‘ldiriladi.",
+    "purpose": "Mo‘ljallangan qo‘llanilishi rasmiy yo‘riqnomaga muvofiq yoziladi.",
+    "usage": "Qo‘llash tartibi rasmiy yo‘riqnomaga muvofiq yoziladi.",
+    "precautions": "Ehtiyot choralari shu yerga yoziladi.",
+    "contraindications": "Qarshi ko‘rsatmalar va cheklovlar shu yerga yoziladi.",
+    "documentIds": ["d1"]
+  }
+]

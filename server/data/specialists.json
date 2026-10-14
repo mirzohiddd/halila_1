@@ -1,0 +1,38 @@
+[
+  {
+    "id": "s1",
+    "example": true,
+    "name": "Namuna: Familiya Ism",
+    "specialty": "onkolog",
+    "qualification": "Onkolog, oliy toifali shifokor (namuna)",
+    "clinic": "Klinika nomi (namuna)",
+    "district": "Yunusobod tumani",
+    "address": "Manzil shu yerga yoziladi",
+    "phone": "+998 00 000 00 00",
+    "availability": ["bugun", "yaqin", "keyinroq"]
+  },
+  {
+    "id": "s2",
+    "example": true,
+    "name": "Namuna: Familiya Ism",
+    "specialty": "terapevt",
+    "qualification": "Terapevt, 1-toifali shifokor (namuna)",
+    "clinic": "Oilaviy poliklinika (namuna)",
+    "district": "Chilonzor tumani",
+    "address": "Manzil shu yerga yoziladi",
+    "phone": "+998 00 000 00 00",
+    "availability": ["yaqin", "keyinroq"]
+  },
+  {
+    "id": "s3",
+    "example": true,
+    "name": "Namuna: Diagnostika markazi",
+    "specialty": "diagnostika",
+    "qualification": "UTT, MRT, KT, laboratoriya tahlillari (namuna)",
+    "clinic": "Diagnostika markazi (namuna)",
+    "district": "Mirzo Ulug‘bek tumani",
+    "address": "Manzil shu yerga yoziladi",
+    "phone": "+998 00 000 00 00",
+    "availability": ["bugun", "yaqin", "keyinroq"]
+  }
+]
